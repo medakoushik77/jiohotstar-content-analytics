@@ -47,7 +47,25 @@ jiohotstar-content-analytics/
 ```
 
 ---
+## 📷 Project Preview
 
+### Movies vs TV Shows
+
+<p align="center">
+  <img src="images/movies_vs_tvshows.png" width="700">
+</p>
+
+### Top Genres
+
+<p align="center">
+  <img src="images/top10_genres.png" width="700">
+</p>
+
+### Correlation Heatmap
+
+<p align="center">
+  <img src="images/correlation_heatmap.png" width="700">
+</p>
 ## 📊 Analyses Performed
 
 1. Movies vs TV Shows
