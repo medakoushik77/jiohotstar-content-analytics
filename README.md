@@ -2,6 +2,11 @@
 
 End-to-End Data Analysis project using Python to analyze a fictional JioHotstar streaming platform dataset and generate business insights.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-green)
 ---
 
 ## 📌 Project Overview
